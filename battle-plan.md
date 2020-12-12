@@ -5,6 +5,8 @@ Notes:
 ~~Tokenize w/ keras(proably not worth the time)~~ 
 Clustering with vectorized vocab (issues with nltk Kmeans, doesn't like my dtype)
 ~~Seq2Seq (char by char) Success! - played with argmax/prob (try other Temps)~~
+Doc2Vec vs. averaging sentences
+
     
 Battle Plan
 1. finish trying clustering on intent vocab (nltk/sklearn)

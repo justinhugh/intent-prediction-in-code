@@ -1,5 +1,6 @@
-#Intent Prediction in Code 
-##With Applied Machine Learning Techniques
+# Intent Prediction in Code 
+## With Applied Machine Learning Techniques
+***
 
 Software and code are becoming present nearly everywhere in our daily lives both personal and professional. Whether it helps us accomplish complex and massive tasks, or powers the applications and products we rely on, the digital world is expanding. Yet, only a fraction of us are literate in code, and even among those of us who are, there are a wide range of languages and frameworks so no one is familiar with it all, and mistakes or misinterpretations can be made even on languages we're familiar with. 
 
@@ -11,9 +12,10 @@ I propose a model which could predict the intent or purpose of a sample of code.
 The goal of this project is to develop an ML model which employs NLP tools to interpret a samples of code and make a prediction as to its intent.
 
 Below is a copy of the table of contents of the notebook for a sample of the work done.
+
 ***
 
-##Table of Contents
+## Table of Contents
 1.0 - Introduction
 1.1 - Problem
 2.0 - Background

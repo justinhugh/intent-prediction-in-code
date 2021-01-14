@@ -16,42 +16,42 @@ Below is a copy of the table of contents of the notebook for a sample of the wor
 ***
 
 ## Table of Contents
-1.0 - Introduction
-1.1 - Problem
-2.0 - Background
-2.1 - Stack Overflow
-2.2 - Packages and Libraries
-3.0 - Limitations and Assumptions
-4.0 - The Data
-4.1 - Sources of Data
-4.1.1 - CoNaLa
-4.1.2 - Other Sources of Data
-5.0 - Exploratory Data Analysis
-5.1 - Importing Data
-5.1.1 - Importing CoNaLa Competition Data
-5.1.1.1 - Importing CoNala Training Data
-5.1.1.2 - Importing CoNaLa Test Data
-5.2 - DataFrames from CoNaLa Competition Data
-5.3 - Input and Target
-5.4 - Pickling Data
-5.5 - CoNaLa Mined Data
-6.0 - Modelling Approaches
-7.0 - Preprocessing
-7.1 - Separating Input and Target
-7.2 - Preparing for Tokenization
-7.2.3 - Helper Functions
-7.2.3.1 - List Splitting Helper Function
-7.3 - Vectorizing Text Data
-8.0 - Modelling and Analysis
-8.1 - Seq2Seq Discussion
-8.2 - Implementing Seq2Seq
-8.3 - Training the Seq2Seq Model
-8.4 - Predicting a Target Sequence
-8.5 - Prediction for Custom Data
-9.0 - Discussion
-9.1 - Model Metric Performance
-9.2 - Model Qualitative Performance
-9.2.1 - Model Weaknesses
-9.2.2 - Model Strengths
-10.0 - Conclusions and Next Steps
-11.0 - References
+1.0 - Introduction  
+1.1 - Problem  
+2.0 - Background  
+2.1 - Stack Overflow  
+2.2 - Packages and Libraries  
+3.0 - Limitations and Assumptions  
+4.0 - The Data  
+4.1 - Sources of Data  
+4.1.1 - CoNaLa  
+4.1.2 - Other Sources of Data  
+5.0 - Exploratory Data Analysis  
+5.1 - Importing Data  
+5.1.1 - Importing CoNaLa Competition Data  
+5.1.1.1 - Importing CoNala Training Data  
+5.1.1.2 - Importing CoNaLa Test Data  
+5.2 - DataFrames from CoNaLa Competition Data  
+5.3 - Input and Target  
+5.4 - Pickling Data  
+5.5 - CoNaLa Mined Data  
+6.0 - Modelling Approaches  
+7.0 - Preprocessing  
+7.1 - Separating Input and Target  
+7.2 - Preparing for Tokenization  
+7.2.3 - Helper Functions  
+7.2.3.1 - List Splitting Helper Function  
+7.3 - Vectorizing Text Data  
+8.0 - Modelling and Analysis  
+8.1 - Seq2Seq Discussion  
+8.2 - Implementing Seq2Seq  
+8.3 - Training the Seq2Seq Model  
+8.4 - Predicting a Target Sequence  
+8.5 - Prediction for Custom Data  
+9.0 - Discussion  
+9.1 - Model Metric Performance  
+9.2 - Model Qualitative Performance  
+9.2.1 - Model Weaknesses  
+9.2.2 - Model Strengths  
+10.0 - Conclusions and Next Steps  
+11.0 - References  
